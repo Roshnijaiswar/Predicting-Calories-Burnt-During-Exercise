@@ -1,4 +1,3 @@
-Absolutely, Roshni! Here's a **rewritten and polished version** of your extended project description for **“Predicting Calories Burnt During Exercise”** — structured, easy to read, and professional:
 
 ---
 
@@ -33,5 +32,3 @@ The final model provides accurate, personalized calorie predictions and can be i
 Python, Pandas, NumPy, Seaborn, Matplotlib, XGBoost, Scikit-learn, Google Colab
 
 ---
-
-Would you like this in `.docx` or `.pdf` format, or directly as a `README.md` for your GitHub repo?
